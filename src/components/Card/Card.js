@@ -8,7 +8,6 @@ class Card extends React.Component {
         title: PropTypes.node,
     }
     render() {
-        console.log('jestem')
         return (
             <section className={styles.component}>
                 <h3>{this.props.title}</h3>
