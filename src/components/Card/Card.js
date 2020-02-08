@@ -8,6 +8,7 @@ class Card extends React.Component {
     static protoTypes = {
       title: PropTypes.node,
     }
+    
     render() {
       const { title } = this.props;
       return (
