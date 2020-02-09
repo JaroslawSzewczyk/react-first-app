@@ -1,3 +1,3 @@
 # react-first-app
 
-https://dashboard.heroku.com/apps/damp-falls-99428
+https://damp-falls-99428.herokuapp.com/
