@@ -8,9 +8,8 @@ const Container = (props) => (
   </div>
 );
 
-Container.protoTypes = {
-  children: PropTypes.node,
-  
+Container.propTypes = {
+  children: PropTypes.any,
 };
 
 export default Container;

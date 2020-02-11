@@ -11,7 +11,7 @@ const Hero = props => (
   </header>
 );
 
-Hero.protoTypes = {
+Hero.propTypes = {
   titleText: PropTypes.node.isRequired,
   image: PropTypes.string,
 };
