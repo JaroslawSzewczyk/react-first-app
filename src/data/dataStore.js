@@ -19,6 +19,11 @@ export const pageContents = {
   subtitle: 'A simple to-do app, with lists, columns and cards',
 };
 
+export const heroContents = {
+  title: 'Things to do <sup>soon!</sup>',
+  image: 'http://uploads.kodilla.com/bootcamp/fer/11.react/space.png',
+};
+
 export const listData = {
   title: 'Things to do <sup>soon!</sup>',
   description: 'Interesting things I want to check out!',
