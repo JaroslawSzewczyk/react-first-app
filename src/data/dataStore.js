@@ -131,12 +131,25 @@ const columns = [
     listId: 'list-1',
     title: 'Games',
     icon: 'gamepad',
-  },
+  },  
   {
     id: 'column-4',
     listId: 'list-2',
-    title: 'Strange column',
-    icon: 'question',
+    title: 'Movies',
+    icon: 'film',
+  },
+
+  {
+    id: 'column-5',
+    listId: 'list-2',
+    title: 'Games',
+    icon: 'gamepad',
+  },
+  {
+    id: 'column-6',
+    listId: 'list-2',
+    title: 'Ikea',
+    icon: 'store-alt',
   },
 ];
 
@@ -170,6 +183,26 @@ const cards = [
     id: 'card-6',
     columnId: 'column-3',
     title: 'Skyrim',
+  },
+  {
+    id: 'card-7',
+    columnId: 'column-4',
+    title: 'Terminator',
+  },
+  {
+    id: 'card-8',
+    columnId: 'column-4',
+    title: 'Alien',
+  },
+  {
+    id: 'card-9',
+    columnId: 'column-5',
+    title: 'Darksiders: Genesis',
+  },
+  {
+    id: 'card-10',
+    columnId: 'column-6',
+    title: 'Lamp',
   },
 ];
 
