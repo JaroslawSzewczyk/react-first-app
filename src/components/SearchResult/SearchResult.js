@@ -7,6 +7,7 @@ import Container from '../Container/Container';
 class SearchResult extends React.Component {
   render() {
     const { cards } = this.props;
+    //console.log(cards);
     return (
       <Container>
         <section className={styles.component}>
